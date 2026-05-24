@@ -1,4 +1,4 @@
-# 🏛️ 中华自由宪政团
+# 🏛️ 中华自由宪政党
 *THE LIBERAL CONSTITUTIONAL PARTY OF CHINA*
 
 > [cite_start]**核心宣言：“主权回归万民，契约重塑神州。为自由立约，把权力还给人民。”** [cite: 4, 519]
