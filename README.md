@@ -1,60 +1,46 @@
 <div style="background-color: #003366; color: white; padding: 60px 20px; text-align: center; border-radius: 10px;">
-    <h1 style="font-size: 48px; margin-bottom: 10px;">🏛️ 中华自由宪政党</h1>
+    <h1 style="font-size: 48px; margin-bottom: 10px;">🏛️ 中华自由宪政团</h1>
     <p style="font-size: 24px; font-weight: 300;">THE LIBERAL CONSTITUTIONAL PARTY OF CHINA</p>
     <p style="font-size: 20px; font-style: italic; opacity: 0.8;">“为自由立约，把权力还给人民”</p>
     <br>
-    <a href="./constitution.md" style="background-color: #e6b800; color: #003366; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-right: 10px;">📖 阅读宪法草案</a>
+    <a href="中华自由大宪章（中文版）.pdf" style="background-color: #e6b800; color: #003366; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-right: 10px;">📖 在线阅读大宪章全集</a>
     <a href="#join-us" style="background-color: white; color: #003366; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px;">✍️ 参与签名支持</a>
 </div>
 
 <br>
 
-## 🏛️ 核心宪政文件审阅
+## 🏛️ 《中华自由大宪章》全集审阅与下载
+
+本仓库提供《中华自由大宪章》多语言完整版本的文献下载。为了方便阅读，每个独立的文件（含 PDF 与 EPUB 格式）内均已完整收录并汇编了以下核心内容：
+1. **《中华自由大宪章》主文**
+2. **《大宪章新政实施纲要》**
+3. **《还原》**
+
+请根据您的语言习惯与设备需求，选择相应的版本进行在线查阅或下载：
+
 <table style="width:100%; border-collapse: collapse;">
   <tr style="background-color: #f2f2f2;">
-    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #003366;">文件名称</th>
-    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #003366;">性质</th>
-    <th style="padding: 12px; text-align: center; border-bottom: 2px solid #003366;">查阅链接</th>
+    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #003366;">语言版本 (Language)</th>
+    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #003366;">包含内容</th>
+    <th style="padding: 12px; text-align: center; border-bottom: 2px solid #003366;">在线浏览 (PDF)</th>
+    <th style="padding: 12px; text-align: center; border-bottom: 2px solid #003366;">电子书下载 (EPUB)</th>
   </tr>
   <tr>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>《中华联邦共和国宪法 (草案)》</b></td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;">根本大法</td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="./constitution.md">查看全文</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>中文版（简体）</b></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; font-size: 14px;">大宪章主文 + 新政纲要 + 《还原》</td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="中华自由大宪章（中文版）.pdf" target="_blank">点击查看</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="中华自由大宪章（中文版）.epub">点击下载</a></td>
   </tr>
   <tr>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>《国家重建与复兴新政纲要》</b></td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;">施政纲领</td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="./implementation.md">查看全文</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>英文版 (English)</b></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; font-size: 14px;">Main Text + New Policy Outline + Restoration</td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="The Great Charter of Chinese Freedom (大宪章英文版).pdf" target="_blank">点击查看</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="The Great Charter of Chinese Freedom (大宪章英文版).epub">点击下载</a></td>
   </tr>
   <tr>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>《中华自由宪政党章程》</b></td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd;">组织规范</td>
-    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="./charter.md">查看全文</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd;"><b>德文版 (Deutsch)</b></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; font-size: 14px;">Haupttext + Neupolitik-Programm + Wiederherstellung</td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="Große Charta der chinesischen Freiheit (大宪章德语版).pdf" target="_blank">点击查看</a></td>
+    <td style="padding: 12px; border-bottom: 1px solid #ddd; text-align: center;"><a href="Große Charta der chinesischen Freiheit (大宪章德语版).epub">点击下载</a></td>
   </tr>
 </table>
-
-<br>
-
-## 📢 我们的核心使命 (WHO WE ARE)
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 20px; border-left: 5px solid #003366;">
-        <h3>1. 财产与土地私有</h3>
-        <p>确立公民对土地及私有财产的永久所有权。让“有恒产者有恒心”。</p>
-    </div>
-    <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 20px; border-left: 5px solid #003366;">
-        <h3>2. 司法公正</h3>
-        <p>引入公民陪审团制度。让普通国民直接参与裁决，确立“司法权属于人民”。</p>
-    </div>
-</div>
-
----
-
-<div id="join-us" style="text-align: center; padding: 40px 0;">
-    <h2>✍️ 签署您的支持</h2>
-    <p>您的名字，就是新政的基石。请点击上方文件，在文档末尾点击编辑并签名。</p>
-</div>
-
-<div style="text-align: center; color: #666; font-size: 14px; margin-top: 50px;">
-    发布人：边靖涛 (Bian Jingtao) | 地点：德国 · 柏林 <br>
-    © 2026 中华自由宪政党 筹备委员会
-</div>
