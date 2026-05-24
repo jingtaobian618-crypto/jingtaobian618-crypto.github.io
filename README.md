@@ -1,25 +1,26 @@
-# 🏛️ 《中华自由大宪章》
-### *THE GREAT CHARTER OF CHINESE FREEDOM*
+<div align="center">
+  <h1>🏛️ 《中华自由大宪章》</h1>
+  <h3><em>THE GREAT CHARTER OF CHINESE FREEDOM</em></h3>
+  <p style="font-size: 1.2em; color: #555;"><strong>核心宣言：“主权回归万民，契约重塑神州。为自由立约，把权力还给人民。”</strong></p>
+</div>
 
-> **核心宣言：“主权回归万民，契约重塑神州。为自由立约，把权力还给人民。”**
-
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div style="background-color: #f6f8fa; padding: 30px; border-radius: 12px; margin: 30px 0; border: 1px solid #e1e4e8;">
   <p align="center">🏠 <strong>官方网站：</strong> <a href="https://www.freechinacharter.org/">FreeChinaCharter.org</a></p>
-  <table align="center" style="width: 100%; border-collapse: collapse;">
+  <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
     <tr>
-      <th style="padding: 10px; border-bottom: 1px solid #ddd;">文献全集</th>
-      <th style="padding: 10px; border-bottom: 1px solid #ddd;">PDF 珍藏版</th>
-      <th style="padding: 10px; border-bottom: 1px solid #ddd;">EPUB 电子书</th>
+      <th style="padding: 15px; border-bottom: 2px solid #ddd; text-align: left;">文献全集</th>
+      <th style="padding: 15px; border-bottom: 2px solid #ddd; text-align: center;">PDF 珍藏版</th>
+      <th style="padding: 15px; border-bottom: 2px solid #ddd; text-align: center;">EPUB 电子书</th>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">🇨🇳 中文版 (Chinese)</td>
-      <td align="center" style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.pdf">下载</a></td>
-      <td align="center" style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.epub">下载</a></td>
+      <td style="padding: 15px; border-bottom: 1px solid #eee;">🇨🇳 中文版 (Chinese)</td>
+      <td align="center" style="padding: 15px; border-bottom: 1px solid #eee;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.pdf">下载</a></td>
+      <td align="center" style="padding: 15px; border-bottom: 1px solid #eee;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.epub">下载</a></td>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">🇺🇸 英文版 (English)</td>
-      <td align="center" style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.pdf">Download</a></td>
-      <td align="center" style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.epub">Download</a></td>
+      <td style="padding: 15px; border-bottom: 1px solid #eee;">🇺🇸 英文版 (English)</td>
+      <td align="center" style="padding: 15px; border-bottom: 1px solid #eee;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.pdf">Download</a></td>
+      <td align="center" style="padding: 15px; border-bottom: 1px solid #eee;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.epub">Download</a></td>
     </tr>
   </table>
 </div>
@@ -30,6 +31,7 @@
 ---
 
 ## 📚 核心文献深度摘要
+
 ### 📜 第一部：《中华自由大宪章》
 直击数千年“秦制大一统”人治毒瘤，基于密码学共识构建“零信任”现代国家操作系统。核心确立“自下而上”授权、司法主权在民及横向制衡机制。
 
@@ -43,6 +45,7 @@
 
 ## 👨‍💻 关于作者与共建行动
 **边靖涛 (Bian Jingtao)** | 独立学者 | 欧洲·德国
+
 * **官网：** [FreeChinaCharter.org](https://www.freechinacharter.org/)
 * **X (Twitter)：** [@JingTao618](https://twitter.com/JingTao618)
 * **YouTube：** [废话少说-s3q](https://www.youtube.com/@%E5%BA%9F%E8%AF%9D%E5%B0%91%E8%AF%B4-s3q)
