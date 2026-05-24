@@ -5,8 +5,8 @@
   <p>🏠 <strong><a href="https://www.freechinacharter.org/" target="_blank">访问官方网站 (Official Website)：FreeChinaCharter.org</a></strong></p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <table style="width: 80%; font-size: 14px; border-collapse: collapse;">
+<div align="center">
+  <table style="width: 80%; font-size: 14px; border-collapse: collapse; margin: 20px auto;">
     <tr style="background-color: #f8f9fa;">
       <th style="padding: 10px; border: 1px solid #ddd;">📥 文献全集快速下载</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📄 PDF 珍藏版</th>
@@ -32,12 +32,17 @@
 
 ---
 
-### 🌐 时代背景与立国愿景
+<div align="center">
+  <h3>🌐 时代背景与立国愿景</h3>
+</div>
+
 人类文明演进的铁律昭示，宪政民主是通向成熟文明的唯一彼岸。本官方发布平台承载的完整文献全集，是一套将中国彻底接入全球通用文明操作系统的全栈制度蓝图。本套文献以**“天赋人权，人生而平等”**为哲学底座，本着**自由、平等、民主、宪政、公开透明、法治**的治国原则，旨在重塑未来的国家制度框架。它以非凡的全球视野与深刻的中国现实关怀，直面并系统性清除中国当前最紧迫的贪腐横行、贫富分化、民生断层及经济大坍塌等系统性危机。
 
 ---
 
-## 📚 核心文献深度摘要与思想全景
+<div align="center">
+  <h3>📚 核心文献深度摘要与思想全景</h3>
+</div>
 
 ### 📜 第一部：《中华自由大宪章》
 * **中国现实透视**：直击中国数千年来“秦制大一统”中央集权导致官员“只唯上、不唯下”的人治毒瘤，斩断垂直依附的权力锁链。
@@ -64,22 +69,24 @@
 
 ---
 
-## 👨‍💻 关于作者与共建行动
-**边靖涛 (Bian Jingtao)** | *独立学者 / 政治与经济体制研究者 / 《中华自由大宪章》及《新政实施纲要》作者*
-📍 **坐标：** 欧洲 · 德国 (Deutschland, Europa)
+<div align="center">
+  <h3>👨‍💻 关于作者与共建行动</h3>
+</div>
 
-### 🌐 官方平台与社媒矩阵
-* 🏠 **官方网站：** [https://www.freechinacharter.org/](https://www.freechinacharter.org/)
-* 🐦 **X (Twitter)：** [@JingTao618](https://twitter.com/JingTao618)
-* 📺 **YouTube 频道：** [https://www.youtube.com/@%E5%BA%9F%E8%AF%9D%E5%B0%91%E8%AF%B4-s3q](https://www.youtube.com/@%E5%BA%9F%E8%AF%9D%E5%B0%91%E8%AF%B4-s3q)
+<div align="center">
+  <p><b>边靖涛 (Bian Jingtao)</b> | <i>独立学者 / 政治与经济体制研究者 / 《中华自由大宪章》及《新政实施纲要》作者</i></p>
+  <p>📍 <b>坐标：</b> 欧洲 · 德国 (Deutschland, Europa)</p>
 
-### 📚 获取其他语种版本 (Amazon)
-* 📖 **中英双语版 (Bilingual Edition)：** [点击前往 Amazon 获取](https://www.amazon.de/dp/B0H18LQFF3)
-* 📖 **德文版 (Deutsch Edition)：** [点击前往 Amazon 获取](https://www.amazon.com/dp/B0H1WC4SBZ)
+  <p><b>🌐 官方平台与社媒矩阵</b></p>
+  <p>🏠 <a href="https://www.freechinacharter.org/">官网</a> | 🐦 <a href="https://twitter.com/JingTao618">X (Twitter)</a> | 📺 <a href="https://www.youtube.com/@%E5%BA%9F%E8%AF%9D%E5%B0%91%E8%AF%B4-s3q">YouTube 频道</a></p>
 
-### 🔐 安全加密联络
-* **Session ID:** `051423e4e85bb16773d1598b6fe616023b7a0788723b0b6097364cd81c23f10700`
-> *(注：Session 无需手机号注册，下载 App 后输入 ID 即可安全通信)*
+  <p><b>📚 获取其他语种版本 (Amazon)</b></p>
+  <p>📖 <a href="https://www.amazon.de/dp/B0H18LQFF3">中英双语版</a> | 📖 <a href="https://www.amazon.com/dp/B0H1WC4SBZ">德文版</a></p>
 
-<br>
-<p align="center" style="color: gray; font-size: 14px;">🏛️ 主权回归万民 • 契约重塑神州 • 2026</p>
+  <p><b>🔐 安全加密联络</b></p>
+  <p>Session ID: <code>051423e4e85bb16773d1598b6fe616023b7a0788723b0b6097364cd81c23f10700</code></p>
+  <p><i>(注：Session 无需手机号注册，下载 App 后输入 ID 即可安全通信)</i></p>
+
+  <br>
+  <p style="color: gray; font-size: 14px;">🏛️ 主权回归万民 • 契约重塑神州 • 2026</p>
+</div>
