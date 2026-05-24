@@ -5,8 +5,8 @@
   <p>🏠 <strong><a href="https://www.freechinacharter.org/" target="_blank">访问官方网站 (Official Website)：FreeChinaCharter.org</a></strong></p>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; margin: 20px 0;">
-  <table style="width: 80%; font-size: 14px; border-collapse: collapse;">
+<div align="center">
+  <table style="width: 80%; font-size: 14px; border-collapse: collapse; margin: 20px auto;">
     <tr style="background-color: #f8f9fa;">
       <th style="padding: 10px; border: 1px solid #ddd;">📥 文献全集快速下载</th>
       <th style="padding: 10px; border: 1px solid #ddd;">📄 PDF 珍藏版</th>
@@ -71,6 +71,9 @@
 
 <div align="center">
   <h3>👨‍💻 关于作者与共建行动</h3>
+</div>
+
+<div align="center">
   <p><b>边靖涛 (Bian Jingtao)</b> | <i>独立学者 / 政治与经济体制研究者 / 《中华自由大宪章》及《新政实施纲要》作者</i></p>
   <p>📍 <b>坐标：</b> 欧洲 · 德国 (Deutschland, Europa)</p>
 
