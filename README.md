@@ -1,4 +1,7 @@
 <div align="center">
+  <meta name="description" content="《中华自由大宪章》官方发布平台，由独立学者边靖涛撰写，提供《中华联邦宪法》及国家转型实施方案，探讨中国民主化、宪政法治与经济改革。">
+<meta name="keywords" content="中华自由大宪章, 边靖涛, 中华大宪章, 中国大宪章, 08宪章, 宪政民主, 中国宪法, 中国政治改革, 自由宪章, 新政实施纲要, 去中心化治理, 联邦宪法, 民主宪政, 政治体制改革, 人权, 法治中国, 联邦宪法, 公民权利, 中华联邦宪法, 经济体制研究, 独立学者, 主权在民, 中国民主化">
+<meta name="author" content="Bian Jingtao">
   <h1>《中华自由大宪章》</h1>
   <p><em>THE GREAT CHARTER OF CHINESE FREEDOM</em></p>
   <p><strong>核心宣言：“主权回归万民，契约重塑神州。为自由立约，把权力还给人民。”</strong></p>
