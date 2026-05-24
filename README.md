@@ -11,18 +11,18 @@
     </tr>
     <tr>
       <td style="padding: 8px;"><b>🇨🇳 中文版 (Chinese)</b></td>
-      <td align="center" style="padding: 8px;"><a href="charter-cn.pdf" download="中华自由大宪章(全集).pdf">点击下载</a></td>
-      <td align="center" style="padding: 8px;"><a href="charter-cn.epub" download="中华自由大宪章(全集).epub">点击下载</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.pdf">点击下载</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-cn.epub">点击下载</a></td>
     </tr>
     <tr>
       <td style="padding: 8px;"><b>🇺🇸 英文版 (English)</b></td>
-      <td align="center" style="padding: 8px;"><a href="charter-en.pdf" download="The Great Charter of Chinese Freedom.pdf">Download</a></td>
-      <td align="center" style="padding: 8px;"><a href="charter-en.epub" download="The Great Charter of Chinese Freedom.epub">Download</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.pdf">Download</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-en.epub">Download</a></td>
     </tr>
     <tr>
       <td style="padding: 8px;"><b>🇩🇪 德文版 (Deutsch)</b></td>
-      <td align="center" style="padding: 8px;"><a href="charter-de.pdf" download="Große Charta der chinesischen Freiheit.pdf">Herunterladen</a></td>
-      <td align="center" style="padding: 8px;"><a href="charter-de.epub" download="Große Charta der chinesischen Freiheit.epub">Herunterladen</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-de.pdf">Herunterladen</a></td>
+      <td align="center" style="padding: 8px;"><a href="https://github.com/jingtaobian618-crypto/jingtaobian618-crypto.github.io/raw/main/charter-de.epub">Herunterladen</a></td>
     </tr>
   </table>
 </div>
