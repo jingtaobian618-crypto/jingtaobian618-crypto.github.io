@@ -1,6 +1,7 @@
 <h1 align="center">《中华自由大宪章》</h1>
 <p align="center"><em>THE GREAT CHARTER OF CHINESE FREEDOM</em></p>
 <p align="center"><strong>核心宣言：“主权回归万民，契约重塑神州。为自由立约，把权力还给人民。”</strong></p>
+<p align="center">🏠 <strong><a href="https://www.freechinacharter.org/" target="_blank">访问官方网站 (Official Website)：FreeChinaCharter.org</a></strong></p>
 
 <div align="center">
   <table style="width: 66%; font-size: 14px; margin: 15px auto;">
@@ -62,4 +63,28 @@
   2. **国家大账物理熔断**：精确演算得出“不增一分税，民生大账彻底算平”的物理定律。通过更换主权货币进行降维核打击，注销30%-40%的无效货币供应，让贪官藏在地下室的不明黑金直接归零，其海量非法所得100%没收，注入永续生息的中华全民财富基金，实现守法公民的财富含金量暴增。
 
 ---
+
+## 👨‍💻 关于作者与共建行动
+
+**边靖涛 (Bian Jingtao)**
+*独立学者 / 政治与经济体制研究者 / 《中华自由大宪章》及《新政实施纲要》作者*
+📍 **坐标：** 欧洲 · 德国 (Deutschland, Europa)
+
+### 🌐 官方平台与社媒矩阵
+思想的穿透力在于无限制的传播。您可以访问官方网站获取最新动态及数字版本，并通过安全渠道向国内传递：
+* 🏠 **官方网站：** [https://www.freechinacharter.org/](https://www.freechinacharter.org/)
+* 🐦 **X (Twitter)：** [@JingTao618](https://twitter.com/JingTao618)
+* 📺 **YouTube 频道：** [ChinaConstitution](https://youtube.com/c/ChinaConstitution)
+
+### 📚 获取其他语种版本 (Amazon)
+感谢您阅读本数字文献。如果您希望将本书的理念传递给不同语言背景的海外友人，全球实体印刷版可在亚马逊 (Amazon) 获取：
+* 📖 **中英双语版 (Bilingual Edition)：** [点击前往 Amazon 获取](https://www.amazon.de/dp/B0H18LQFF3)
+* 📖 **德文版 (Deutsch Edition)：** [点击前往 Amazon 获取](https://www.amazon.com/dp/B0H1WC4SBZ)
+
+### 🔐 安全加密联络 (极客招募与内部通道)
+我们急需顶尖网络安全专家与区块链极客加入共建。为保障绝对匿名与安全，请使用端到端加密、无服务器存储的通讯软件 **Session** 与我们建立单线联系：
+* **Session ID：** `051423e4e85bb16773d1598b6fe616023b7a0788723b0b6097364cd81c23f10700`
+> *(注：Session 无需手机号注册，下载 App 后输入上述 ID 即可建立最安全的通信)*
+
+<br>
 <p align="center" style="color: gray; font-size: 14px;">🏛️ 主权回归万民 • 契约重塑神州 • 2026</p>
